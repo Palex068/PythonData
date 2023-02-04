@@ -22,3 +22,15 @@
 Вывод
 320000
 """
+
+num1, num2 = ar1, ar2 = int(input()), int(input())
+
+while num1 != 0 and num2 != 0:
+    if num1 >= num2:
+        num1 %= num2
+    else:
+        num2 %= num1
+
+result = (ar1 * ar2) / (num1 + num2)
+
+print(int(result))
