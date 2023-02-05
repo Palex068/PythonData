@@ -41,10 +41,9 @@
 
 
 def almost_binary_search():
-    interval = [0.00, 1000.00]
-    count = 0
+    interval = [0, 1001]
     while True:
-        hypothesis = (interval[0] + interval[1]) / 2
+        hypothesis = (interval[0] + interval[1]) // 2
 
         print(int(hypothesis))
 
@@ -55,10 +54,7 @@ def almost_binary_search():
         elif answer == "Больше" or answer == "+":
             interval[0] = hypothesis
         elif answer == "Меньше" or answer == "-":
-            interval[1] = hypothesis
-        elif count == 10:
-            return
-        count += 1
-
+            interval[1] = hypothesis + 1
+    
 
 almost_binary_search()
