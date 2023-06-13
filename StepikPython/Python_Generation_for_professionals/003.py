@@ -230,3 +230,146 @@ end — конечная дата, тип date
 
 # print(saturdays_between_two_dates(date1, date2))
 
+# from datetime import date
+
+# my_date = date(2019, 2, 4)
+
+# print(my_date)
+
+# from datetime import time
+
+# my_time = time(8, 20, 15)
+
+# print(my_time)
+
+# from datetime import date
+
+# my_date = date(2021, 12, 31)
+
+# print(my_date.strftime('%d %B %Y'))
+
+"""
+Вам доступно время alarm. Дополните приведенный ниже код, 
+чтобы он вывел следующие его компоненты:
+
+количество часов в формате HH
+количество минут в формате MM
+количество секунд в формате SS
+"""
+
+# from datetime import time
+
+# alarm = time(7, 30, 25)
+
+# print('Часы:', alarm.strftime('%H'))
+# print('Минуты:', alarm.strftime('%M'))
+# print('Секунды:', alarm.strftime('%S'))
+
+"""
+Вам доступна дата birthday. Дополните приведенный ниже код, 
+чтобы он вывел следующие её компоненты:
+
+полное название месяца на английском
+полное название дня недели на английском
+год в формате YYYY
+номер месяца в формате MM
+день месяца в формате DD
+"""
+
+# from datetime import date
+
+# birthday = date(1992, 10, 6)
+
+# print('Название месяца:', birthday.strftime('%B'))
+# print('Название дня недели:', birthday.strftime('%A'))
+# print('Год:', birthday.strftime('%Y'))
+# print('Месяц:', birthday.strftime('%m'))
+# print('День:', birthday.strftime('%d'))
+
+"""
+В переменной florida_hurricane_dates хранится список дат, в которые 
+произошел ураган во Флориде с 1950 по 2017 год.
+
+Дополните приведенный ниже код, чтобы он вывел самую раннюю дату из 
+списка florida_hurricane_dates в трех различных форматах:
+
+в стандарте ISO (YYYY-MM-DD)
+в типичном для России стиле (DD.MM.YYYY)
+в типичном для Америки стиле (MM/DD/YYYY)
+
+Примечание 1. Считайте, что переменная florida_hurricane_dates 
+объявлена и доступна вашей программе.
+
+Примечание 2. Считайте, что тип date уже импортирован в программу.
+"""
+
+# from datetime import date
+# # присваиваем самую раннюю дату урагана в переменную first_date
+
+# florida_hurricane_dates = [date(2021, 12, 31), date(2025, 3, 19), date(2017, 5, 25)]
+
+# first_date = min(florida_hurricane_dates)
+
+# # конвертируем дату в ISO и RU формат
+# iso = 'Дата первого урагана в ISO формате: ' + first_date.isoformat()
+# ru = 'Дата первого урагана в RU формате: ' + first_date.strftime('%d.%m.%Y')
+# us = 'Дата первого урагана в US формате: ' + first_date.strftime('%m/%d/%Y')
+
+# print(iso)
+# print(ru)
+# print(us)
+
+"""
+Ураган Эндрю, который обрушился на Флориду 24 августа 1992 года, 
+был одним из самых дорогостоящих и смертоносных ураганов в истории США. 
+Дополните приведенный ниже код, чтобы он вывел дату 24 августа 1992 
+года в трех различных форматах:
+
+в формате YYYY-MM
+в формате month_name (YYYY), 
+    где month_name – полное название месяца на английском
+в формате YYYY-day_number, где day_number – день года
+
+"""
+
+# from datetime import date
+
+# andrew = date(1992, 8, 24)
+
+# print(andrew.strftime('%Y-%m'))   # выводим дату в формате YYYY-MM
+# print(andrew.strftime('%B (%Y)'))   # выводим дату в формате month_name (YYYY)
+# print(andrew.strftime('%Y-%j'))   # выводим дату в формате YYYY-day_number
+
+# n = 'python'
+
+# try:
+#     n = int(n)
+#     print(n * 2)
+# except ValueError:
+#     print('Произошла ошибка')
+
+# try:
+#     names = ['Tim', 'Tom', 'Jerry', 'Alvin', 'Wall-e']
+#     print(names[-5])
+#     print(names[5])
+# except:
+#     print('IndexError')
+
+"""
+Две даты
+Напишите программу, которая принимает на вход две даты и выводит ту, что меньше.
+
+Формат входных данных
+На вход программе подаются две корректные даты в ISO формате (YYYY-MM-DD), каждая на отдельной строке.
+
+Формат выходных данных
+Программа должна выбрать из двух введенных дат меньшую и вывести ее в формате DD-MM (YYYY).
+
+Примечание. Тестовые данные доступны по ссылкам:
+https://github.com/python-generation/Professional/tree/main/Module_3/Module_3.2/Module_3.2.12
+"""
+# from datetime import date
+
+# print(min([date.fromisoformat(input()), date.fromisoformat(input())]).strftime('%d-%m (%Y)'))
+
+
