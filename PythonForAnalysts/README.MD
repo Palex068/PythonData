@@ -4,6 +4,7 @@
 
 1. [Продолжение знакомства с jupyter notebook Лекция 1.](/PythonForAnalysts/001/L01.md)
     + [Термины лекции](/PythonForAnalysts/001/L01.md/#термины-лекции)
+    + [Введение](/PythonForAnalysts/001/L01.md/#введение)
     + [Jupyter notebook](/PythonForAnalysts/001/L01.md/#jupyter-notebook)
         + [Сочетания клавиш в режиме редактирования](/PythonForAnalysts/001/L01.md/#сочетания-клавиш-в-режиме-редактирования)
         + [Сочетания клавиш в режиме ввода команд](/PythonForAnalysts/001/L01.md/#сочетания-клавиш-в-режиме-ввода-команд)
