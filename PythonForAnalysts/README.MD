@@ -2,4 +2,4 @@
 
 ## Содержание курса
 
-1. [Продолжение знакомства с jupyter notebook Лекция 1.](/PythonForAnalysts/L01.md)
+1. [Продолжение знакомства с jupyter notebook Лекция 1.](/PythonForAnalysts/001/L01.md)
