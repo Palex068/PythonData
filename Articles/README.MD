@@ -1,40 +1,10 @@
-# divmod()
+# Оглавление
 
-divmod(divident, divisor)
-
-Параметры:
-
-+ divident - делимое, число, которое вы хотите разделить
-+ divisor - делитель, число, на которое вы хотите делить
-
-Возвращаемое значение:
-
-tuple - кортеж вида (частное, остаток)
-
-Описание:
-
-Функция divmod() возвращает кортеж, содержащий частное и остаток. Не поддерживает комплексные числа. Со смешанными типами операндов применяются правила для двоичных арифметических операторов.
-
-Для целых результат аналогичен 
-
-    (a // b, a % b).
-
-Для чисел с плавающей запятой результат аналогичен (q, a % b), где q обычно равен math.floor(a / b), однако может может быть и на единицу меньше. 
-
-Так или иначе, q * b + a % b приближено к a, если a % b не нуль, то имеет тот же знак, что и b, и 0 <= abs(a % b) < abs(b).
-
-    Return the tuple (x // y, x % y). 
-    Invariant: div*y + mod == x.
-
-# format()
-
-    # вывод числа в американском стандарте
-    print('{:,}'.format(int(input())))
-    # вывод числа в snake_style
-    print('{:_}'.format(int(input())))
-
-# prod()
-    
-    from numpy import prod
-Произведение элементов итерируемого объекта
-
++ [Random](/Articles/_random/README.MD)
++ [Itertools](/Articles/_itertools/README.MD)
++ [Большая история аргументов функций в Python](/Articles/_standart/FunctionArgumentsInPython.md)
++ [Latex](/Articles/_Latex/README.MD)
++ [NumPy](/Articles/_NumPy/README.MD)
++ [Регулярные выражения](/Articles/_re/README.MD)
++ [Встроенные модули](/Articles/_standart/README.MD)
++ [List Comprehension](/Articles/_List%20Comprehension/README.MD)

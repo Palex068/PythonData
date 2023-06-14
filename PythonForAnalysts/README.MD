@@ -26,6 +26,7 @@
     + [Рекомендуемая дополнительная литература или материалы](/PythonForAnalysts/001/L01.md/#рекомендуемая-дополнительная-литература-или-материалы)
     + [Используемая литература или материалы](/PythonForAnalysts/001/L01.md/#используемая-литература-или-материалы)
     + [Дополнительные материалы *args, *kwargs](/PythonForAnalysts/L01_args_kwargs.ipynb)
+    + [Доп материалы](/PythonForAnalysts/001/S01_dop.ipynb)
     + [Решение задач v1](/PythonForAnalysts/001/S01.ipynb)
     + [Решение задач v2](/PythonForAnalysts/001/S01v2.ipynb)
     + [Домашняя работа](/PythonForAnalysts/001/HW01.ipynb)
