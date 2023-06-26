@@ -1,4 +1,4 @@
-# Оглавление
+# Справочные материалы
 
 + [Random](/Articles/_random/README.MD)
 + [Itertools](/Articles/_itertools/README.MD)
