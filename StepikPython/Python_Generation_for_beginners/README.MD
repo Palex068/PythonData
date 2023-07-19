@@ -2,30 +2,93 @@
 
 ![Python](/StepikPython/Python_Generation_for_beginners/pictures/001.png)
 
+# Содержание курса
+## 1. [Общая информация о курсе](/StepikPython/Python_Generation_for_beginners/001.md)
++ [Содержание курса](/StepikPython/Python_Generation_for_beginners/001.md#содержание-курса)
++ [Общение на форуме](/StepikPython/Python_Generation_for_beginners/001.md#общение-на-форуме)
++ [Графические обозначения в курсе](/StepikPython/Python_Generation_for_beginners/001.md#графические-обозначения-в-курсе)
++ [Официальный сайт "Поколение Python"](/StepikPython/Python_Generation_for_beginners/001.md#официальный-сайт-поколение-python)
++ [Официальный telegram-канал "Поколение Python"](/StepikPython/Python_Generation_for_beginners/001.md#официальный-telegram-канал-поколение-python)
++ [Манифест по изучению программирования](/StepikPython/Python_Generation_for_beginners/001.md#манифест-по-изучению-программирования)
++ [Подкаст: как сделать лучший курс по Python](/StepikPython/Python_Generation_for_beginners/001.md#подкаст-как-сделать-лучший-курс-по-python)
++ [Линейка курсов "Поколение Python"](/StepikPython/Python_Generation_for_beginners/001.md#линейка-курсов-поколение-python)
++ [Структура курса](/StepikPython/Python_Generation_for_beginners/001.md#структура-курса)
++ [Часто задаваемые вопросы](/StepikPython/Python_Generation_for_beginners/001.md#часто-задаваемые-вопросы)
 
+## 2. [Знакомство с Python. Ввод и вывод данных](/StepikPython/Python_Generation_for_beginners/002.md)
 
-__Сроки и дедлайны.__ Дедлайнов по этому курсу нет, вы можете проходить его в удобное время. Но для достижения хороших результатов, советуем заниматься регулярно и не забрасывать курс надолго.
++ [Введение. Знакомство с Python](/StepikPython/Python_Generation_for_beginners/002.md#21-введение-знакомство-с-python)
+    + [История языка Python](/StepikPython/Python_Generation_for_beginners/002.md#введение)
+    + [Python 2 VS Python 3](/StepikPython/Python_Generation_for_beginners/002.md#python-2-vs-python-3)
+    + [Преимущества Python](/StepikPython/Python_Generation_for_beginners/002.md#преимущества-python)
+    + [Недостатки Python](/StepikPython/Python_Generation_for_beginners/002.md#недостатки-python)
+    + [Задачи, решаемые с помощью Python](/StepikPython/Python_Generation_for_beginners/002.md#задачи-решаемые-с-помощью-python)
+    + [Проекты, в которых используется Python](/StepikPython/Python_Generation_for_beginners/002.md#проекты-в-которых-используется-python)
+    + [Философия Python](/StepikPython/Python_Generation_for_beginners/002.md#философия-python)
+    + [Установка Python на компьютер](https://stepik.org/lesson/284315/step/7?unit=265660)
+    + [Среда разработки VS Code](https://stepik.org/lesson/284315/step/8?unit=265660)
+    + [Среда разработки Wing IDE](https://stepik.org/lesson/284315/step/9?unit=265660)
++ [Команды print и input](/StepikPython/Python_Generation_for_beginners/002.md#22-команды-print-и-input)
+    + [Вывод данных, команда print](/StepikPython/Python_Generation_for_beginners/002.md#вывод-данных-команда-print)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-1)
+    + [Ввод данных, команда input](/StepikPython/Python_Generation_for_beginners/002.md#ввод-данных-команда-input)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-2)
++ [Параметры sep и end, переменные, PEP 8](/StepikPython/Python_Generation_for_beginners/002.md#23-параметры-sep-и-end)
+    + [Необязательные параметры команды print](/StepikPython/Python_Generation_for_beginners/002.md#необязательные-параметры-команды-print)
+        + [Параметр sep](/StepikPython/Python_Generation_for_beginners/002.md#параметр-sep)
+        + [Параметр end](/StepikPython/Python_Generation_for_beginners/002.md#параметр-end)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-3)
+    + [Переменные](/StepikPython/Python_Generation_for_beginners/002.md#переменные)
+        + [Имя переменной](/StepikPython/Python_Generation_for_beginners/002.md#имя-переменной)
+        + [Значение переменной](/StepikPython/Python_Generation_for_beginners/002.md#значение-переменной)
+        + [Множественное присваивание](/StepikPython/Python_Generation_for_beginners/002.md#множественное-присваивание)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-4)
+    + [PEP 8](/StepikPython/Python_Generation_for_beginners/002.md#pep-8)
+        + [Некоторые рекомендации PEP 8](/StepikPython/Python_Generation_for_beginners/002.md#некоторые-рекомендации-pep-8)
+        + [Комментарии](/StepikPython/Python_Generation_for_beginners/002.md#комментарии)
+            + [Однострочные комментарии](/StepikPython/Python_Generation_for_beginners/002.md#однострочные-комментарии)
+            + [Комментарий в конце строки](/StepikPython/Python_Generation_for_beginners/002.md#комментарий-в-конце-строки)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-5)
++ [Целочисленная арифметика. Часть 1](/StepikPython/Python_Generation_for_beginners/002.md#24-целочисленная-арифметика-часть-1)
+    + [Целые числа](/StepikPython/Python_Generation_for_beginners/002.md#целые-числа)
+    + [Основные операции с числами](/StepikPython/Python_Generation_for_beginners/002.md#основные-операции-с-числами)
+    + [Порядок выполнения операций](/StepikPython/Python_Generation_for_beginners/002.md#порядок-выполнения-операций)
+    + [Преобразование типов](/StepikPython/Python_Generation_for_beginners/002.md#преобразование-типов)
+    + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-6)
++ [Целочисленная арифметика. Часть 2](/StepikPython/Python_Generation_for_beginners/002.md#25-целочисленная-арифметика-часть-2)
+    + [Дополнительные операции](/StepikPython/Python_Generation_for_beginners/002.md#дополнительные-операции)
+        + [Возведение в степень](/StepikPython/Python_Generation_for_beginners/002.md#возведение-в-степень)
+        + [Целочисленное деление](/StepikPython/Python_Generation_for_beginners/002.md#целочисленное-деление)
+        + [Деление с остатком](/StepikPython/Python_Generation_for_beginners/002.md#деление-с-остатком)
+        + [Примечания](/StepikPython/Python_Generation_for_beginners/002.md#примечания-7)
+    + [Обработка цифр числа](/StepikPython/Python_Generation_for_beginners/002.md#обработка-цифр-числа)
+    + [Алгоритм получения цифр n-значного числа](/StepikPython/Python_Generation_for_beginners/002.md#алгоритм-получения-цифр-n-значного-числа)
+    + [Решение задач](/StepikPython/Python_Generation_for_beginners/002.md#решение-задач)
 
-__Общение.__ Вы будете заниматься в компании других студентов курса. Общаться друг с другом можно на форуме. Пожалуйста, прежде чем писать, прочитайте правила общения, они в следующем шаге этого раздела.
+## 3. [Итоговая работа на ввод-вывод данных](/StepikPython/Python_Generation_for_beginners/003.ipynb)
 
-__Как задать вопрос.__ Если у вас возникли сложности с конкретным уроком, обращайтесь к команде курса в комментариях к уроку.
+## 4. [Условный оператор](/StepikPython/Python_Generation_for_beginners/004.md)
 
-# Общение на форуме
-Для успешного и продуктивного обучения мы просим вас придерживаться следующих правил:
+## 5. Итоговая работа на условный оператор
 
-## Правило №1 «Молчаливое». 
+## 6. [Типы данных (int, float, str, bool)](/StepikPython/Python_Generation_for_beginners/006.md)
 
-Студенты курса не пишут ответы на задания в комментариях. При этом обсуждение заданий допускается и даже приветствуется.
+## 7. [Цикл for и while](/StepikPython/Python_Generation_for_beginners/007.md)
 
-## Правило №2 «Самостоятельное». 
+## 8. Итоговая работа на циклы
 
-Студенты курса не пользуются помощью при выполнении заданий.
+## 9. [Строковый тип данных (str)](/StepikPython/Python_Generation_for_beginners/009.md)
 
-## Правило №3 «Уважительное». 
+## 10. Итоговая работа на строки
 
-Студенты курса общаются друг с другом, с автором и администраторами вежливо и с уважением, помогая друг другу в конструктивном диалоге без использования ненормативной лексики.
+## 11. [Списки](/StepikPython/Python_Generation_for_beginners/011.md)
 
-## Правило №4 «Авторское». 
+## 12. Итоговая работа на списки
 
-Мнения студентов курса и лекторов могут различаться, тем не менее, тесты и задания составлены на основании лекций.
+## 13. [Функции](/StepikPython/Python_Generation_for_beginners/013.md)
+
+## 14. Итоговая работа на функции
+
+## 15 Работа над мини - проектом
+
 
