@@ -69,7 +69,27 @@
 
 ## 4. [Условный оператор](/StepikPython/Python_Generation_for_beginners/004.md)
 
-## 5. Итоговая работа на условный оператор
++ [Выбор из двух](/StepikPython/Python_Generation_for_beginners/004.md#41-выбор-из-двух)
+    + [Условный оператор if-else](/StepikPython/Python_Generation_for_beginners/004.md#условный-оператор-if-else)
+    + [Отступы](/StepikPython/Python_Generation_for_beginners/004.md#отступы)
+    + [Операторы сравнения](/StepikPython/Python_Generation_for_beginners/004.md#операторы-сравнения)
+    + [Цепочки сравнений](/StepikPython/Python_Generation_for_beginners/004.md#цепочки-сравнений)
+    + [Транзитивность](/StepikPython/Python_Generation_for_beginners/004.md#транзитивность)
+    + [Решение задач](/StepikPython/Python_Generation_for_beginners/004.md#решение-задач-1)
++ [Логические операции](/StepikPython/Python_Generation_for_beginners/004.md#42-логические-операции)
+    + [Логические операторы](/StepikPython/Python_Generation_for_beginners/004.md#логические-операторы)
+        + [Оператор and](/StepikPython/Python_Generation_for_beginners/004.md#оператор-and)
+        + [Оператор or](/StepikPython/Python_Generation_for_beginners/004.md#оператор-or)
+        + [Оператор not](/StepikPython/Python_Generation_for_beginners/004.md#оператор-not)
+    + [Приоритеты логических операторов](/StepikPython/Python_Generation_for_beginners/004.md#приоритеты-логических-операторов)
+    + [Примечания](/StepikPython/Python_Generation_for_beginners/004.md#примечания-2)
+    + [Решение задач](/StepikPython/Python_Generation_for_beginners/004.md#решение-задач-2)
++ [Вложенные и каскадные условия](/StepikPython/Python_Generation_for_beginners/004.md#43-вложенные-и-каскадные-условия)
+    + [Вложенный оператор](/StepikPython/Python_Generation_for_beginners/004.md#вложенный-оператор)
+    + [Каскадный условный оператор](/StepikPython/Python_Generation_for_beginners/004.md#каскадный-условный-оператор)
+    + [Решение задач](/StepikPython/Python_Generation_for_beginners/004.md#решение-задач-3)
+
+## 5. [Итоговая работа на условный оператор](/StepikPython/Python_Generation_for_beginners/005.ipynb)
 
 ## 6. [Типы данных (int, float, str, bool)](/StepikPython/Python_Generation_for_beginners/006.md)
 
