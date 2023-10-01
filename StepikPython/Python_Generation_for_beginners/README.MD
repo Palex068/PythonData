@@ -235,7 +235,7 @@
     + [Функция chr](/StepikPython/Python_Generation_for_beginners/009.md#функция-chr)
     + [Примечания](/StepikPython/Python_Generation_for_beginners/009.md#примечания-4)
 
-## 10. Итоговая работа на строки
+## 10. [Итоговая работа на строки](/StepikPython/Python_Generation_for_beginners/010.ipynb)
 
 ## 11. [Списки](/StepikPython/Python_Generation_for_beginners/011.md)
 
