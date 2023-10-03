@@ -296,7 +296,7 @@
         + [Реализация алгоритма](/StepikPython/Python_Generation_for_beginners/011.md#реализация-алгоритма-сортировка-простыми-вставками)
         + [Оптимизация алгоритма](/StepikPython/Python_Generation_for_beginners/011.md#оптимизация-алгоритма-сортировка-простыми-вставками)
 
-## 12. Итоговая работа на списки
+## 12. [Итоговая работа на списки](/StepikPython/Python_Generation_for_beginners/012.ipynb)
 
 ## 13. [Функции](/StepikPython/Python_Generation_for_beginners/013.md)
 
