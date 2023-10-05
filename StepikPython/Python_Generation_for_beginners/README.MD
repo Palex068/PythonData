@@ -335,7 +335,7 @@
 + [Преимущества использования функций](/StepikPython/Python_Generation_for_beginners/013.md#преимущества-использования-функций)
 + [Что выделять в функции?](/StepikPython/Python_Generation_for_beginners/013.md#что-выделять-в-функции)
 
-## 14. Итоговая работа на функции
+## 14. [Итоговая работа на функции](/StepikPython/Python_Generation_for_beginners/014.ipynb)
 
 ## 15 Работа над мини - проектом
 
