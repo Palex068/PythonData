@@ -125,7 +125,7 @@
     + [Список констант модуля math](/StepikPython/Python_Generation_for_beginners/006.md#список-констант-модуля-math)
     + [Примечания](/StepikPython/Python_Generation_for_beginners/006.md#примечания-4)
 
-## 7. [Цикл for и while](/StepikPython/Python_Generation_for_beginners/007.md)
+## 7. [Цикл for и while](/StepikPython/Python_Generation_for_beginners/007.md) 
 
 + [Цикл for](StepikPython/Python_Generation_for_beginners/007.md#71-цикл-for)
     + [Цикл for](StepikPython/Python_Generation_for_beginners/007.md#цикл-for)
