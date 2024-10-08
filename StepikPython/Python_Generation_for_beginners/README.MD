@@ -400,4 +400,3 @@
         + [oct()](/StepikPython/Python_Generation_for_beginners/015.md#oct)
         + [hex()](/StepikPython/Python_Generation_for_beginners/015.md#hex)
 + [Угадайка слов](/StepikPython/Python_Generation_for_beginners/015.md#157-угадайка-слов)
-        
